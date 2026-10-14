@@ -1,6 +1,3 @@
-- TBD!!!!!
-
-<!---
-freindly28/freindly28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Current BSCpE Junior
+- Interested in microcontrollers, gate level logic, ASIC Design, and many many other categories of all things computers.
+- Github is where I will be keeping all of my projects, both for class and personal.
